@@ -1,0 +1,60 @@
+(2026-04-04T00:16:36.876755008) (2026-04-04T00:16:36.876766481) [Msg] Gazebo Sim Server v8.10.0
+(2026-04-04T00:16:36.880894200) (2026-04-04T00:16:36.880904490) [Msg] Loading default world.
+(2026-04-04T00:16:36.988611854) (2026-04-04T00:16:36.988626221) [Msg] Serving entity system service on [/entity/system/add]
+(2026-04-04T00:16:36.992813756) (2026-04-04T00:16:36.992833152) [Msg] Loaded level [default]
+(2026-04-04T00:16:36.992937762) (2026-04-04T00:16:36.992945641) [Msg] No systems loaded from SDF, loading defaults
+(2026-04-04T00:16:36.993563448) (2026-04-04T00:16:36.993572576) [Dbg] [ServerConfig.cc:1034] Loaded (3) plugins from file [/home/shibu/.gz/sim/8/server.config]
+(2026-04-04T00:16:37.221223878) (2026-04-04T00:16:37.221239307) [Dbg] [Physics.cc:899] Loaded [gz::physics::dartsim::Plugin] from library [/opt/ros/jazzy/opt/gz_physics_vendor/lib/gz-physics-7/engine-plugins/libgz-physics-dartsim-plugin.so]
+(2026-04-04T00:16:37.221337232) (2026-04-04T00:16:37.221344706) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Physics] for entity [1]
+(2026-04-04T00:16:37.226240456) (2026-04-04T00:16:37.226254099) [Msg] Create service on [/world/default/create_multiple] (async)
+(2026-04-04T00:16:37.226336693) (2026-04-04T00:16:37.226347915) [Msg] Create service on [/world/default/create_multiple/blocking] (blocking)
+(2026-04-04T00:16:37.226582952) (2026-04-04T00:16:37.226590908) [Msg] Remove service on [/world/default/remove] (async)
+(2026-04-04T00:16:37.226650281) (2026-04-04T00:16:37.226657865) [Msg] Remove service on [/world/default/remove/blocking] (blocking)
+(2026-04-04T00:16:37.226848257) (2026-04-04T00:16:37.226856224) [Msg] Pose service on [/world/default/set_pose] (async)
+(2026-04-04T00:16:37.226903072) (2026-04-04T00:16:37.226910491) [Msg] Pose service on [/world/default/set_pose/blocking] (blocking)
+(2026-04-04T00:16:37.227082287) (2026-04-04T00:16:37.227089859) [Msg] Pose service on [/world/default/set_pose_vector] (async)
+(2026-04-04T00:16:37.227137353) (2026-04-04T00:16:37.227144783) [Msg] Pose service on [/world/default/set_pose_vector/blocking] (blocking)
+(2026-04-04T00:16:37.227966511) (2026-04-04T00:16:37.227974939) [Msg] Light configuration service on [/world/default/light_config] (async)
+(2026-04-04T00:16:37.228033172) (2026-04-04T00:16:37.228040755) [Msg] Light configuration service on [/world/default/light_config/blocking] (blocking)
+(2026-04-04T00:16:37.228384074) (2026-04-04T00:16:37.228391843) [Msg] Physics service on [/world/default/set_physics] (async)
+(2026-04-04T00:16:37.228435118) (2026-04-04T00:16:37.228442526) [Msg] Physics service on [/world/default/set_physics/blocking] (blocking)
+(2026-04-04T00:16:37.228622289) (2026-04-04T00:16:37.228629949) [Msg] SphericalCoordinates service on [/world/default/set_spherical_coordinates] (async)
+(2026-04-04T00:16:37.228673597) (2026-04-04T00:16:37.228680917) [Msg] SphericalCoordinates service on [/world/default/set_spherical_coordinates/blocking] (blocking)
+(2026-04-04T00:16:37.228834851) (2026-04-04T00:16:37.228842292) [Msg] Enable collision service on [/world/default/enable_collision] (async)
+(2026-04-04T00:16:37.228889129) (2026-04-04T00:16:37.228896559) [Msg] Enable collision service on [/world/default/enable_collision/blocking] (blocking)
+(2026-04-04T00:16:37.229039381) (2026-04-04T00:16:37.229046799) [Msg] Disable collision service on [/world/default/disable_collision] (async)
+(2026-04-04T00:16:37.229094239) (2026-04-04T00:16:37.229101702) [Msg] Disable collision service on [/world/default/disable_collision/blocking] (blocking)
+(2026-04-04T00:16:37.229327622) (2026-04-04T00:16:37.229335293) [Msg] Material service on [/world/default/visual_config] (async)
+(2026-04-04T00:16:37.229382064) (2026-04-04T00:16:37.229389515) [Msg] Material service on [/world/default/visual_config/blocking] (blocking)
+(2026-04-04T00:16:37.229571799) (2026-04-04T00:16:37.229579393) [Msg] Material service on [/world/default/wheel_slip] (async)
+(2026-04-04T00:16:37.229625408) (2026-04-04T00:16:37.229632827) [Msg] Material service on [/world/default/wheel_slip/blocking] (blocking)
+(2026-04-04T00:16:37.229705065) (2026-04-04T00:16:37.229712594) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::UserCommands] for entity [1]
+(2026-04-04T00:16:37.233956626) (2026-04-04T00:16:37.233970981) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::SceneBroadcaster] for entity [1]
+(2026-04-04T00:16:37.234613226) (2026-04-04T00:16:37.234652928) [Msg] Serving world controls on [/world/default/control], [/world/default/control/state] and [/world/default/playback/control]
+(2026-04-04T00:16:37.234809985) (2026-04-04T00:16:37.234817755) [Msg] Serving GUI information on [/world/default/gui/info]
+(2026-04-04T00:16:37.234865238) (2026-04-04T00:16:37.234872734) [Msg] World [default] initialized with [] physics profile.
+(2026-04-04T00:16:37.235562965) (2026-04-04T00:16:37.235570800) [Msg] Serving world SDF generation service on [/world/default/generate_world_sdf]
+(2026-04-04T00:16:37.235723408) (2026-04-04T00:16:37.235731035) [Msg] Serving world names on [/gazebo/worlds]
+(2026-04-04T00:16:37.235829870) (2026-04-04T00:16:37.235837519) [Msg] Resource path add service on [/gazebo/resource_paths/add].
+(2026-04-04T00:16:37.235974698) (2026-04-04T00:16:37.235982226) [Msg] Resource path get service on [/gazebo/resource_paths/get].
+(2026-04-04T00:16:37.236139261) (2026-04-04T00:16:37.236146998) [Msg] Resource path resolve service on [/gazebo/resource_paths/resolve].
+(2026-04-04T00:16:37.236346354) (2026-04-04T00:16:37.236354858) [Msg] Resource paths published on [/gazebo/resource_paths].
+(2026-04-04T00:16:37.346475960) (2026-04-04T00:16:37.346494579) [Msg] Server control service on [/server_control].
+(2026-04-04T00:16:37.346790633) (2026-04-04T00:16:37.346801909) [Msg] Found no publishers on /stats, adding root stats topic
+(2026-04-04T00:16:37.347855612) (2026-04-04T00:16:37.347863732) [Msg] Found no publishers on /clock, adding root clock topic
+(2026-04-04T00:16:37.348066782) (2026-04-04T00:16:37.348074464) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 2
+(2026-04-04T00:16:37.348128818) (2026-04-04T00:16:37.348136215) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-04-04T00:16:37.357712193) (2026-04-04T00:16:37.357725103) [Msg] Serving scene information on [/world/default/scene/info]
+(2026-04-04T00:16:37.357845361) (2026-04-04T00:16:37.357852857) [Msg] Serving graph information on [/world/default/scene/graph]
+(2026-04-04T00:16:37.358027480) (2026-04-04T00:16:37.358035063) [Msg] Serving full state on [/world/default/state]
+(2026-04-04T00:16:37.358134830) (2026-04-04T00:16:37.358142139) [Msg] Serving full state (async) on [/world/default/state_async]
+(2026-04-04T00:16:37.358271942) (2026-04-04T00:16:37.358279361) [Msg] Publishing scene information on [/world/default/scene/info]
+(2026-04-04T00:16:37.358425240) (2026-04-04T00:16:37.358432791) [Msg] Publishing entity deletions on [/world/default/scene/deletion]
+(2026-04-04T00:16:37.358534727) (2026-04-04T00:16:37.358542069) [Msg] Publishing state changes on [/world/default/state]
+(2026-04-04T00:16:37.358665429) (2026-04-04T00:16:37.358672661) [Msg] Publishing pose messages on [/world/default/pose/info]
+(2026-04-04T00:16:37.358779737) (2026-04-04T00:16:37.358787484) [Msg] Publishing dynamic pose messages on [/world/default/dynamic_pose/info]
+(2026-04-04T00:16:37.559614855) (2026-04-04T00:16:37.559632695) [Dbg] [EntityComponentManager.cc:1656] Updated state thread iterators: 3 threads processing around 1 entities each.
+(2026-04-04T00:18:40.494314483) (2026-04-04T00:18:40.494333906) [Dbg] [SignalHandler.cc:142] Received signal[2].
+(2026-04-04T00:18:40.494408276) (2026-04-04T00:18:40.494420142) [Dbg] [ServerPrivate.cc:122] Server received signal[2]
+(2026-04-04T00:18:40.494490809) (2026-04-04T00:18:40.494502339) [Dbg] [gz.cc:434] Shutting down gz-sim-server
+(2026-04-04T00:18:40.494898804) (2026-04-04T00:18:40.494918574) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (0)

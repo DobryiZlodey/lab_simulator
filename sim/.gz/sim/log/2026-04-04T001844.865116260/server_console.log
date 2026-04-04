@@ -1,0 +1,9 @@
+(2026-04-04T00:18:44.981783048) (2026-04-04T00:18:44.981791810) [Msg] Gazebo Sim Server v8.10.0
+(2026-04-04T00:18:44.982881633) (2026-04-04T00:18:44.982888488) [Msg] Loading SDF world file[/home/shibu/ros2_ws/src/lab_world/worlds/lab_world.sdf].
+(2026-04-04T00:18:45.128206989) (2026-04-04T00:18:45.128223994) [Err] [Server.cc:86] Error Code 14: Msg: Parser configurations requested resolved uris, but uri [model://pioneer3at/meshes/chassis.dae] could not be resolved.
+(2026-04-04T00:18:45.128396600) (2026-04-04T00:18:45.128404127) [Err] [Server.cc:86] Error Code 14: Msg: Parser configurations requested resolved uris, but uri [model://pioneer3at/meshes/wheel.dae] could not be resolved.
+(2026-04-04T00:18:45.128490033) (2026-04-04T00:18:45.128497340) [Err] [Server.cc:86] Error Code 14: Msg: Parser configurations requested resolved uris, but uri [model://pioneer3at/meshes/wheel.dae] could not be resolved.
+(2026-04-04T00:18:45.128556322) (2026-04-04T00:18:45.128563761) [Err] [Server.cc:86] Error Code 14: Msg: Parser configurations requested resolved uris, but uri [model://pioneer3at/meshes/wheel.dae] could not be resolved.
+(2026-04-04T00:18:45.128696373) (2026-04-04T00:18:45.128703548) [Err] [Server.cc:86] Error Code 14: Msg: Parser configurations requested resolved uris, but uri [model://pioneer3at/meshes/wheel.dae] could not be resolved.
+(2026-04-04T00:18:45.128808663) (2026-04-04T00:18:45.128822681) [Err] [Server.cc:86] Error Code 9: Msg: Failed to load a world.
+(2026-04-04T00:18:45.130573348) (2026-04-04T00:18:45.130581746) [Dbg] [gz.cc:434] Shutting down gz-sim-server

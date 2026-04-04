@@ -1,0 +1,506 @@
+(2026-04-03T23:47:25.42036061) (2026-04-03T23:47:25.42044104) [Msg] Gazebo Sim Server v8.10.0
+(2026-04-03T23:47:25.44136160) (2026-04-03T23:47:25.44149868) [Wrn] [LocalCache.cc:164] Server directory does not exist [/home/shibu/.gz/fuel/fuel.gazebosim.org]
+(2026-04-03T23:47:25.44299942) (2026-04-03T23:47:25.44307128) [Msg] Downloading world [fuel.gazebosim.org/openrobotics/worlds/nao joint control]
+(2026-04-03T23:47:23.815250451) (2026-04-03T23:47:23.815264496) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/bbaf507f-7072-438a-88b1-08ab16f2bba1/.zips/1.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260403%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260403T204723Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=46fce9df284a1eef2196691dbc7b0ef076523ed1abce6ac81b8480a0af274936]
+(2026-04-03T23:47:24.841758899) (2026-04-03T23:47:24.841768276) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.gazebosim.org/openrobotics/worlds/nao joint control/1/nao_world.sdf]
+(2026-04-03T23:47:24.843302896) (2026-04-03T23:47:24.843314509) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.gazebosim.org/openrobotics/worlds/nao joint control/1/thumbnails/1.png]
+(2026-04-03T23:47:24.844303642) (2026-04-03T23:47:24.844312737) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.gazebosim.org/openrobotics/worlds/nao joint control/1/thumbnails/2.png]
+(2026-04-03T23:47:24.844584656) (2026-04-03T23:47:24.844594848) [Msg] Saved world at:
+  /home/shibu/.gz/fuel/fuel.gazebosim.org/openrobotics/worlds/nao joint control/1
+(2026-04-03T23:47:24.844818836) (2026-04-03T23:47:24.844827920) [Msg] Loading SDF world file[/home/shibu/.gz/fuel/fuel.gazebosim.org/openrobotics/worlds/nao joint control/1/nao_world.sdf].
+(2026-04-03T23:47:24.894376237) (2026-04-03T23:47:24.894389392) [Wrn] [LocalCache.cc:104] Server directory does not exist [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org]
+(2026-04-03T23:47:24.894554998) (2026-04-03T23:47:24.894564300) [Msg] Downloading model [fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller]
+(2026-04-03T23:47:25.839019162) (2026-04-03T23:47:25.839049119) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/95ebdb1c-c63a-4c65-b8bf-8d55ac75a92f/.zips/2.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260403%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260403T204725Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=af83ae4fff1856f6406d1f7576883960b75410d1da3165691c7f6358466fa136]
+(2026-04-03T23:47:27.478674632) (2026-04-03T23:47:27.478687450) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/materials/texture/textureNAO.png]
+(2026-04-03T23:47:27.484910044) (2026-04-03T23:47:27.484929070) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/HeadPitch.dae]
+(2026-04-03T23:47:27.485140164) (2026-04-03T23:47:27.485151507) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/HeadYaw.dae]
+(2026-04-03T23:47:27.485392014) (2026-04-03T23:47:27.485403422) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LAnklePitch.dae]
+(2026-04-03T23:47:27.487351449) (2026-04-03T23:47:27.487362954) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LAnkleRoll.dae]
+(2026-04-03T23:47:27.487932883) (2026-04-03T23:47:27.487944149) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LElbowRoll.dae]
+(2026-04-03T23:47:27.488642977) (2026-04-03T23:47:27.488684167) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LFinger11.dae]
+(2026-04-03T23:47:27.489413874) (2026-04-03T23:47:27.489421678) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LFinger12.dae]
+(2026-04-03T23:47:27.490037442) (2026-04-03T23:47:27.490044996) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LFinger13.dae]
+(2026-04-03T23:47:27.490762623) (2026-04-03T23:47:27.490770221) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LFinger21.dae]
+(2026-04-03T23:47:27.491509218) (2026-04-03T23:47:27.491516621) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LFinger22.dae]
+(2026-04-03T23:47:27.492132678) (2026-04-03T23:47:27.492140200) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LFinger23.dae]
+(2026-04-03T23:47:27.493602338) (2026-04-03T23:47:27.493609989) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LHipPitch.dae]
+(2026-04-03T23:47:27.493774803) (2026-04-03T23:47:27.493782238) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LHipRoll.dae]
+(2026-04-03T23:47:27.496021633) (2026-04-03T23:47:27.496029698) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LHipYawPitch.dae]
+(2026-04-03T23:47:27.498174383) (2026-04-03T23:47:27.498182632) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LKneePitch.dae]
+(2026-04-03T23:47:27.498431736) (2026-04-03T23:47:27.498439355) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LShoulderPitch.dae]
+(2026-04-03T23:47:27.500961295) (2026-04-03T23:47:27.500969739) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LShoulderRoll.dae]
+(2026-04-03T23:47:27.501703516) (2026-04-03T23:47:27.501711277) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LThumb1.dae]
+(2026-04-03T23:47:27.502374070) (2026-04-03T23:47:27.502381766) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LThumb2.dae]
+(2026-04-03T23:47:27.504721558) (2026-04-03T23:47:27.504729372) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/LWristYaw.dae]
+(2026-04-03T23:47:27.504915915) (2026-04-03T23:47:27.504923350) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RAnklePitch.dae]
+(2026-04-03T23:47:27.506979936) (2026-04-03T23:47:27.506988326) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RAnkleRoll.dae]
+(2026-04-03T23:47:27.507562108) (2026-04-03T23:47:27.507569652) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RElbowRoll.dae]
+(2026-04-03T23:47:27.508265246) (2026-04-03T23:47:27.508272865) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RFinger11.dae]
+(2026-04-03T23:47:27.509039127) (2026-04-03T23:47:27.509046660) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RFinger12.dae]
+(2026-04-03T23:47:27.509677967) (2026-04-03T23:47:27.509685564) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RFinger13.dae]
+(2026-04-03T23:47:27.510385196) (2026-04-03T23:47:27.510392771) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RFinger21.dae]
+(2026-04-03T23:47:27.511152999) (2026-04-03T23:47:27.511160607) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RFinger22.dae]
+(2026-04-03T23:47:27.511800359) (2026-04-03T23:47:27.511807902) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RFinger23.dae]
+(2026-04-03T23:47:27.513295676) (2026-04-03T23:47:27.513303306) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RHipPitch.dae]
+(2026-04-03T23:47:27.513470964) (2026-04-03T23:47:27.513478420) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RHipRoll.dae]
+(2026-04-03T23:47:27.515796700) (2026-04-03T23:47:27.515805004) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RHipYawPitch.dae]
+(2026-04-03T23:47:27.517957406) (2026-04-03T23:47:27.517965514) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RKneePitch.dae]
+(2026-04-03T23:47:27.518198728) (2026-04-03T23:47:27.518206141) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RShoulderPitch.dae]
+(2026-04-03T23:47:27.520617373) (2026-04-03T23:47:27.520626435) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RShoulderRoll.dae]
+(2026-04-03T23:47:27.521375386) (2026-04-03T23:47:27.521383385) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RThumb1.dae]
+(2026-04-03T23:47:27.522042500) (2026-04-03T23:47:27.522050086) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RThumb2.dae]
+(2026-04-03T23:47:27.524392874) (2026-04-03T23:47:27.524400591) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/RWristYaw.dae]
+(2026-04-03T23:47:27.528598552) (2026-04-03T23:47:27.528607040) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/meshes/V40/Torso.dae]
+(2026-04-03T23:47:27.528709532) (2026-04-03T23:47:27.528717129) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/model.config]
+(2026-04-03T23:47:27.529018461) (2026-04-03T23:47:27.529026113) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/model.sdf]
+(2026-04-03T23:47:27.529956495) (2026-04-03T23:47:27.529964125) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/thumbnails/1.png]
+(2026-04-03T23:47:27.530278123) (2026-04-03T23:47:27.530285580) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/thumbnails/2.png]
+(2026-04-03T23:47:27.530684422) (2026-04-03T23:47:27.530692269) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/thumbnails/3.png]
+(2026-04-03T23:47:27.531063846) (2026-04-03T23:47:27.531071433) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/thumbnails/4.png]
+(2026-04-03T23:47:27.531466042) (2026-04-03T23:47:27.531473585) [Dbg] [Zip.cc:180] Created file [/home/shibu/.gz/fuel/fuel.ignitionrobotics.org/openrobotics/models/nao with ignition position controller/2/thumbnails/5.png]
+(2026-04-03T23:47:27.811313469) (2026-04-03T23:47:27.811340690) [Msg] Serving entity system service on [/entity/system/add]
+(2026-04-03T23:47:27.813756643) (2026-04-03T23:47:27.813768441) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-physics-system]. Using [gz-sim-physics-system] instead.
+(2026-04-03T23:47:27.849789475) (2026-04-03T23:47:27.849803509) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::Physics]. Using [gz::sim::systems::Physics] instead.
+(2026-04-03T23:47:27.864154350) (2026-04-03T23:47:27.864169296) [Dbg] [Physics.cc:899] Loaded [gz::physics::dartsim::Plugin] from library [/opt/ros/jazzy/opt/gz_physics_vendor/lib/gz-physics-7/engine-plugins/libgz-physics-dartsim-plugin.so]
+(2026-04-03T23:47:27.864265243) (2026-04-03T23:47:27.864272678) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::Physics] for entity [1]
+(2026-04-03T23:47:27.864331158) (2026-04-03T23:47:27.864338473) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-user-commands-system]. Using [gz-sim-user-commands-system] instead.
+(2026-04-03T23:47:27.865500690) (2026-04-03T23:47:27.865508364) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::UserCommands]. Using [gz::sim::systems::UserCommands] instead.
+(2026-04-03T23:47:27.866407475) (2026-04-03T23:47:27.866415420) [Msg] Create service on [/world/nao_world/create_multiple] (async)
+(2026-04-03T23:47:27.866468235) (2026-04-03T23:47:27.866475745) [Msg] Create service on [/world/nao_world/create_multiple/blocking] (blocking)
+(2026-04-03T23:47:27.866702013) (2026-04-03T23:47:27.866709849) [Msg] Remove service on [/world/nao_world/remove] (async)
+(2026-04-03T23:47:27.866758398) (2026-04-03T23:47:27.866765724) [Msg] Remove service on [/world/nao_world/remove/blocking] (blocking)
+(2026-04-03T23:47:27.866919880) (2026-04-03T23:47:27.866927239) [Msg] Pose service on [/world/nao_world/set_pose] (async)
+(2026-04-03T23:47:27.866975125) (2026-04-03T23:47:27.866982517) [Msg] Pose service on [/world/nao_world/set_pose/blocking] (blocking)
+(2026-04-03T23:47:27.867129889) (2026-04-03T23:47:27.867137193) [Msg] Pose service on [/world/nao_world/set_pose_vector] (async)
+(2026-04-03T23:47:27.867185764) (2026-04-03T23:47:27.867193057) [Msg] Pose service on [/world/nao_world/set_pose_vector/blocking] (blocking)
+(2026-04-03T23:47:27.867347528) (2026-04-03T23:47:27.867354941) [Msg] Light configuration service on [/world/nao_world/light_config] (async)
+(2026-04-03T23:47:27.867403153) (2026-04-03T23:47:27.867410414) [Msg] Light configuration service on [/world/nao_world/light_config/blocking] (blocking)
+(2026-04-03T23:47:27.867712842) (2026-04-03T23:47:27.867720125) [Msg] Physics service on [/world/nao_world/set_physics] (async)
+(2026-04-03T23:47:27.867767762) (2026-04-03T23:47:27.867774947) [Msg] Physics service on [/world/nao_world/set_physics/blocking] (blocking)
+(2026-04-03T23:47:27.867950257) (2026-04-03T23:47:27.867957572) [Msg] SphericalCoordinates service on [/world/nao_world/set_spherical_coordinates] (async)
+(2026-04-03T23:47:27.868005806) (2026-04-03T23:47:27.868013111) [Msg] SphericalCoordinates service on [/world/nao_world/set_spherical_coordinates/blocking] (blocking)
+(2026-04-03T23:47:27.868148847) (2026-04-03T23:47:27.868156087) [Msg] Enable collision service on [/world/nao_world/enable_collision] (async)
+(2026-04-03T23:47:27.868203431) (2026-04-03T23:47:27.868210616) [Msg] Enable collision service on [/world/nao_world/enable_collision/blocking] (blocking)
+(2026-04-03T23:47:27.868337735) (2026-04-03T23:47:27.868344920) [Msg] Disable collision service on [/world/nao_world/disable_collision] (async)
+(2026-04-03T23:47:27.868392709) (2026-04-03T23:47:27.868399959) [Msg] Disable collision service on [/world/nao_world/disable_collision/blocking] (blocking)
+(2026-04-03T23:47:27.868571112) (2026-04-03T23:47:27.868578449) [Msg] Material service on [/world/nao_world/visual_config] (async)
+(2026-04-03T23:47:27.868625478) (2026-04-03T23:47:27.868632728) [Msg] Material service on [/world/nao_world/visual_config/blocking] (blocking)
+(2026-04-03T23:47:27.868784225) (2026-04-03T23:47:27.868791486) [Msg] Material service on [/world/nao_world/wheel_slip] (async)
+(2026-04-03T23:47:27.868837983) (2026-04-03T23:47:27.868845233) [Msg] Material service on [/world/nao_world/wheel_slip/blocking] (blocking)
+(2026-04-03T23:47:27.868900652) (2026-04-03T23:47:27.868907914) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::UserCommands] for entity [1]
+(2026-04-03T23:47:27.868962345) (2026-04-03T23:47:27.868969411) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-scene-broadcaster-system]. Using [gz-sim-scene-broadcaster-system] instead.
+(2026-04-03T23:47:27.870086433) (2026-04-03T23:47:27.870093922) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::SceneBroadcaster]. Using [gz::sim::systems::SceneBroadcaster] instead.
+(2026-04-03T23:47:27.870413705) (2026-04-03T23:47:27.870421314) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::SceneBroadcaster] for entity [1]
+(2026-04-03T23:47:27.872899166) (2026-04-03T23:47:27.872907501) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.876291074) (2026-04-03T23:47:27.876309059) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.876850248) (2026-04-03T23:47:27.876860461) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/HeadYaw/0/cmd_pos]
+(2026-04-03T23:47:27.876920015) (2026-04-03T23:47:27.876927450) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.876979309) (2026-04-03T23:47:27.876986668) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.877046602) (2026-04-03T23:47:27.877053853) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.877123848) (2026-04-03T23:47:27.877131088) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.877177281) (2026-04-03T23:47:27.877184499) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.877231148) (2026-04-03T23:47:27.877238290) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.877283887) (2026-04-03T23:47:27.877290876) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.877338112) (2026-04-03T23:47:27.877347272) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.877405850) (2026-04-03T23:47:27.877413079) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.877459348) (2026-04-03T23:47:27.877466457) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/HeadYaw/0/cmd_pos]
+(2026-04-03T23:47:27.877526533) (2026-04-03T23:47:27.877533718) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.877585479) (2026-04-03T23:47:27.877592686) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.877646868) (2026-04-03T23:47:27.877653988) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.877960584) (2026-04-03T23:47:27.877968149) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.878379006) (2026-04-03T23:47:27.878387081) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/HeadPitch/0/cmd_pos]
+(2026-04-03T23:47:27.878432775) (2026-04-03T23:47:27.878439961) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.878465597) (2026-04-03T23:47:27.878470883) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.878492699) (2026-04-03T23:47:27.878497746) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.878520311) (2026-04-03T23:47:27.878525423) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.878567861) (2026-04-03T23:47:27.878577163) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.878687523) (2026-04-03T23:47:27.878694980) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.878741922) (2026-04-03T23:47:27.878749086) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.878795464) (2026-04-03T23:47:27.878802725) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.878849048) (2026-04-03T23:47:27.878856201) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.878902373) (2026-04-03T23:47:27.878909525) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/HeadPitch/0/cmd_pos]
+(2026-04-03T23:47:27.878953928) (2026-04-03T23:47:27.878961015) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.879028406) (2026-04-03T23:47:27.879035635) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.879087874) (2026-04-03T23:47:27.879094972) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.879467689) (2026-04-03T23:47:27.879475189) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.879847548) (2026-04-03T23:47:27.879855666) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LHipYawPitch/0/cmd_pos]
+(2026-04-03T23:47:27.879923188) (2026-04-03T23:47:27.879937026) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.879978107) (2026-04-03T23:47:27.879985260) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.880010148) (2026-04-03T23:47:27.880015357) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.880056960) (2026-04-03T23:47:27.880064091) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.880110284) (2026-04-03T23:47:27.880117480) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.880164260) (2026-04-03T23:47:27.880171391) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.880217280) (2026-04-03T23:47:27.880224368) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.880271104) (2026-04-03T23:47:27.880278343) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.880338842) (2026-04-03T23:47:27.880346060) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.880392839) (2026-04-03T23:47:27.880400068) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LHipYawPitch/0/cmd_pos]
+(2026-04-03T23:47:27.880444872) (2026-04-03T23:47:27.880451970) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.880502809) (2026-04-03T23:47:27.880510059) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.880562092) (2026-04-03T23:47:27.880569288) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.880884567) (2026-04-03T23:47:27.880892132) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.881212708) (2026-04-03T23:47:27.881220360) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LHipRoll/0/cmd_pos]
+(2026-04-03T23:47:27.881268225) (2026-04-03T23:47:27.881281510) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.881323611) (2026-04-03T23:47:27.881330764) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.881377913) (2026-04-03T23:47:27.881385109) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.881408922) (2026-04-03T23:47:27.881414066) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.881458729) (2026-04-03T23:47:27.881467738) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.881520932) (2026-04-03T23:47:27.881528150) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.881574745) (2026-04-03T23:47:27.881581843) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.881646803) (2026-04-03T23:47:27.881654031) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.881701071) (2026-04-03T23:47:27.881708289) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.881753907) (2026-04-03T23:47:27.881761049) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LHipRoll/0/cmd_pos]
+(2026-04-03T23:47:27.881806418) (2026-04-03T23:47:27.881813614) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.881863302) (2026-04-03T23:47:27.881870574) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.881900237) (2026-04-03T23:47:27.881905480) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.882201721) (2026-04-03T23:47:27.882209037) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.882501512) (2026-04-03T23:47:27.882509121) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LHipPitch/0/cmd_pos]
+(2026-04-03T23:47:27.882556291) (2026-04-03T23:47:27.882565875) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.882618852) (2026-04-03T23:47:27.882636956) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.882697552) (2026-04-03T23:47:27.882704835) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.882751484) (2026-04-03T23:47:27.882758626) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.882805861) (2026-04-03T23:47:27.882813036) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.882838824) (2026-04-03T23:47:27.882857731) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.882900582) (2026-04-03T23:47:27.882907734) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.882957629) (2026-04-03T23:47:27.882964814) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.883011225) (2026-04-03T23:47:27.883018356) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.883064484) (2026-04-03T23:47:27.883071658) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LHipPitch/0/cmd_pos]
+(2026-04-03T23:47:27.883116376) (2026-04-03T23:47:27.883123507) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.883173390) (2026-04-03T23:47:27.883180554) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.883232326) (2026-04-03T23:47:27.883239403) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.883533788) (2026-04-03T23:47:27.883540984) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.883851412) (2026-04-03T23:47:27.883859031) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LKneePitch/0/cmd_pos]
+(2026-04-03T23:47:27.883910282) (2026-04-03T23:47:27.883917619) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.883958646) (2026-04-03T23:47:27.883965832) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.884012427) (2026-04-03T23:47:27.884019601) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.884066098) (2026-04-03T23:47:27.884073327) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.884119314) (2026-04-03T23:47:27.884126445) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.884172508) (2026-04-03T23:47:27.884179661) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.884230315) (2026-04-03T23:47:27.884237533) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.884261650) (2026-04-03T23:47:27.884266849) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.884308918) (2026-04-03T23:47:27.884316038) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.884362134) (2026-04-03T23:47:27.884369275) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LKneePitch/0/cmd_pos]
+(2026-04-03T23:47:27.884413971) (2026-04-03T23:47:27.884421091) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.884492020) (2026-04-03T23:47:27.884499455) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.884550804) (2026-04-03T23:47:27.884557957) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.884837071) (2026-04-03T23:47:27.884844354) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.885119865) (2026-04-03T23:47:27.885127506) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LAnklePitch/0/cmd_pos]
+(2026-04-03T23:47:27.885179007) (2026-04-03T23:47:27.885186311) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.885227556) (2026-04-03T23:47:27.885234686) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.885281238) (2026-04-03T23:47:27.885288477) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.885320941) (2026-04-03T23:47:27.885326281) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.885368480) (2026-04-03T23:47:27.885375557) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.885421761) (2026-04-03T23:47:27.885428914) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.885482065) (2026-04-03T23:47:27.885489879) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.885516275) (2026-04-03T23:47:27.885521626) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.885563467) (2026-04-03T23:47:27.885570609) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.885616933) (2026-04-03T23:47:27.885624151) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LAnklePitch/0/cmd_pos]
+(2026-04-03T23:47:27.885649147) (2026-04-03T23:47:27.885654443) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.885699486) (2026-04-03T23:47:27.885706834) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.885758737) (2026-04-03T23:47:27.885765835) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.886013170) (2026-04-03T23:47:27.886020420) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.886345261) (2026-04-03T23:47:27.886352881) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LAnkleRoll/0/cmd_pos]
+(2026-04-03T23:47:27.886408343) (2026-04-03T23:47:27.886415713) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.886457337) (2026-04-03T23:47:27.886464500) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.886510672) (2026-04-03T23:47:27.886517879) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.886564691) (2026-04-03T23:47:27.886571855) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.886617625) (2026-04-03T23:47:27.886655938) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.886705290) (2026-04-03T23:47:27.886712475) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.886758571) (2026-04-03T23:47:27.886765821) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.886811874) (2026-04-03T23:47:27.886819102) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.886865654) (2026-04-03T23:47:27.886872883) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.886934488) (2026-04-03T23:47:27.886941728) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LAnkleRoll/0/cmd_pos]
+(2026-04-03T23:47:27.886992284) (2026-04-03T23:47:27.887001456) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.887029838) (2026-04-03T23:47:27.887035146) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.887083966) (2026-04-03T23:47:27.887091151) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.887319220) (2026-04-03T23:47:27.887326406) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.887609460) (2026-04-03T23:47:27.887617101) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LShoulderPitch/0/cmd_pos]
+(2026-04-03T23:47:27.887664000) (2026-04-03T23:47:27.887676720) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.887727863) (2026-04-03T23:47:27.887735146) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.887782327) (2026-04-03T23:47:27.887789480) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.887835565) (2026-04-03T23:47:27.887842739) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.887889323) (2026-04-03T23:47:27.887896476) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.887942376) (2026-04-03T23:47:27.887949561) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.887975100) (2026-04-03T23:47:27.887980288) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.888022726) (2026-04-03T23:47:27.888029835) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.888076517) (2026-04-03T23:47:27.888083735) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.888129223) (2026-04-03T23:47:27.888136343) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LShoulderPitch/0/cmd_pos]
+(2026-04-03T23:47:27.888194259) (2026-04-03T23:47:27.888201498) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.888250405) (2026-04-03T23:47:27.888257633) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.888286645) (2026-04-03T23:47:27.888291899) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.888466470) (2026-04-03T23:47:27.888473612) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.888802035) (2026-04-03T23:47:27.888809578) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LShoulderRoll/0/cmd_pos]
+(2026-04-03T23:47:27.888854903) (2026-04-03T23:47:27.888862143) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.888879791) (2026-04-03T23:47:27.888885000) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.888941711) (2026-04-03T23:47:27.888949070) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.888975770) (2026-04-03T23:47:27.888980980) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.889022713) (2026-04-03T23:47:27.889029843) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.889076428) (2026-04-03T23:47:27.889083526) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.889129448) (2026-04-03T23:47:27.889136644) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.889183597) (2026-04-03T23:47:27.889190793) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.889236867) (2026-04-03T23:47:27.889243987) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.889269613) (2026-04-03T23:47:27.889274877) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LShoulderRoll/0/cmd_pos]
+(2026-04-03T23:47:27.889328712) (2026-04-03T23:47:27.889335810) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.889363140) (2026-04-03T23:47:27.889368458) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.889416442) (2026-04-03T23:47:27.889423573) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.889713585) (2026-04-03T23:47:27.889720792) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.889994425) (2026-04-03T23:47:27.890009588) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LElbowYaw/0/cmd_pos]
+(2026-04-03T23:47:27.890056573) (2026-04-03T23:47:27.890063834) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.890089547) (2026-04-03T23:47:27.890094833) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.890137683) (2026-04-03T23:47:27.890144803) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.890169289) (2026-04-03T23:47:27.890174499) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.890216460) (2026-04-03T23:47:27.890223547) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.890247621) (2026-04-03T23:47:27.890252820) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.890308684) (2026-04-03T23:47:27.890315934) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.890362127) (2026-04-03T23:47:27.890378506) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.890425285) (2026-04-03T23:47:27.890432438) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.890478642) (2026-04-03T23:47:27.890485925) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LElbowYaw/0/cmd_pos]
+(2026-04-03T23:47:27.890530632) (2026-04-03T23:47:27.890537806) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.890566829) (2026-04-03T23:47:27.890572158) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.890682779) (2026-04-03T23:47:27.890693383) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.890926858) (2026-04-03T23:47:27.890934075) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.891207155) (2026-04-03T23:47:27.891214753) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LElbowRoll/0/cmd_pos]
+(2026-04-03T23:47:27.891259741) (2026-04-03T23:47:27.891267057) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.891307921) (2026-04-03T23:47:27.891315096) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.891366510) (2026-04-03T23:47:27.891373749) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.891436006) (2026-04-03T23:47:27.891443169) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.891489265) (2026-04-03T23:47:27.891496418) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.891546443) (2026-04-03T23:47:27.891555668) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.891611001) (2026-04-03T23:47:27.891619727) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.891678055) (2026-04-03T23:47:27.891686944) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.891745120) (2026-04-03T23:47:27.891754226) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.891812142) (2026-04-03T23:47:27.891821227) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LElbowRoll/0/cmd_pos]
+(2026-04-03T23:47:27.891877622) (2026-04-03T23:47:27.891886783) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.891949746) (2026-04-03T23:47:27.891958841) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.892024376) (2026-04-03T23:47:27.892033525) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.892350671) (2026-04-03T23:47:27.892360461) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.892756883) (2026-04-03T23:47:27.892764698) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/LWristYaw/0/cmd_pos]
+(2026-04-03T23:47:27.892812183) (2026-04-03T23:47:27.892819574) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.892861676) (2026-04-03T23:47:27.892869024) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.892934634) (2026-04-03T23:47:27.892941961) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.892988968) (2026-04-03T23:47:27.892996186) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.893042716) (2026-04-03T23:47:27.893049868) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.893096279) (2026-04-03T23:47:27.893103464) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.893149234) (2026-04-03T23:47:27.893156419) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.893203557) (2026-04-03T23:47:27.893210699) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.893256925) (2026-04-03T23:47:27.893264121) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.893310781) (2026-04-03T23:47:27.893317966) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/LWristYaw/0/cmd_pos]
+(2026-04-03T23:47:27.893362608) (2026-04-03T23:47:27.893369750) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.893421044) (2026-04-03T23:47:27.893428316) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.893479937) (2026-04-03T23:47:27.893487078) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.893827267) (2026-04-03T23:47:27.893834929) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.894133114) (2026-04-03T23:47:27.894143425) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RHipYawPitch/0/cmd_pos]
+(2026-04-03T23:47:27.894213225) (2026-04-03T23:47:27.894220736) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.894262382) (2026-04-03T23:47:27.894269632) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.894316867) (2026-04-03T23:47:27.894335123) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.894359783) (2026-04-03T23:47:27.894365015) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.894407702) (2026-04-03T23:47:27.894414953) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.894440719) (2026-04-03T23:47:27.894445983) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.894487879) (2026-04-03T23:47:27.894495010) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.894521135) (2026-04-03T23:47:27.894526431) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.894567002) (2026-04-03T23:47:27.894574144) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.894598207) (2026-04-03T23:47:27.894603449) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RHipYawPitch/0/cmd_pos]
+(2026-04-03T23:47:27.894673011) (2026-04-03T23:47:27.894682030) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.894746501) (2026-04-03T23:47:27.894752048) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.894827090) (2026-04-03T23:47:27.894834395) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.895060684) (2026-04-03T23:47:27.895083965) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.895424273) (2026-04-03T23:47:27.895432001) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RHipRoll/0/cmd_pos]
+(2026-04-03T23:47:27.895483545) (2026-04-03T23:47:27.895490959) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.895532485) (2026-04-03T23:47:27.895539768) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.895586146) (2026-04-03T23:47:27.895593320) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.895640566) (2026-04-03T23:47:27.895647806) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.895694336) (2026-04-03T23:47:27.895701532) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.895725128) (2026-04-03T23:47:27.895730272) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.895786907) (2026-04-03T23:47:27.895794147) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.895840948) (2026-04-03T23:47:27.895848166) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.895894999) (2026-04-03T23:47:27.895902217) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.895948704) (2026-04-03T23:47:27.895955932) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RHipRoll/0/cmd_pos]
+(2026-04-03T23:47:27.896001051) (2026-04-03T23:47:27.896008215) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.896034969) (2026-04-03T23:47:27.896040287) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.896089390) (2026-04-03T23:47:27.896096575) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.896387097) (2026-04-03T23:47:27.896394390) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.896680722) (2026-04-03T23:47:27.896688505) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RHipPitch/0/cmd_pos]
+(2026-04-03T23:47:27.896749785) (2026-04-03T23:47:27.896757198) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.896798377) (2026-04-03T23:47:27.896805584) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.896857758) (2026-04-03T23:47:27.896865084) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.896889744) (2026-04-03T23:47:27.896895029) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.896937163) (2026-04-03T23:47:27.896944338) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.896991085) (2026-04-03T23:47:27.896998303) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.897044409) (2026-04-03T23:47:27.897051638) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.897098320) (2026-04-03T23:47:27.897105516) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.897151850) (2026-04-03T23:47:27.897158992) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.897205381) (2026-04-03T23:47:27.897212555) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RHipPitch/0/cmd_pos]
+(2026-04-03T23:47:27.897310760) (2026-04-03T23:47:27.897318108) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.897345763) (2026-04-03T23:47:27.897351125) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.897399413) (2026-04-03T23:47:27.897406587) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.897737984) (2026-04-03T23:47:27.897745343) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.898079008) (2026-04-03T23:47:27.898086736) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RKneePitch/0/cmd_pos]
+(2026-04-03T23:47:27.898139529) (2026-04-03T23:47:27.898146952) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.898188891) (2026-04-03T23:47:27.898196131) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.898242563) (2026-04-03T23:47:27.898249781) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.898296484) (2026-04-03T23:47:27.898303789) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.898350416) (2026-04-03T23:47:27.898366990) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.898393072) (2026-04-03T23:47:27.898398347) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.898440806) (2026-04-03T23:47:27.898448002) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.898474019) (2026-04-03T23:47:27.898479283) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.898521265) (2026-04-03T23:47:27.898528439) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.898554195) (2026-04-03T23:47:27.898559481) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RKneePitch/0/cmd_pos]
+(2026-04-03T23:47:27.898600617) (2026-04-03T23:47:27.898607802) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.898668984) (2026-04-03T23:47:27.898676289) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.898733607) (2026-04-03T23:47:27.898741834) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.899078560) (2026-04-03T23:47:27.899085876) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.899378547) (2026-04-03T23:47:27.899386220) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RAnklePitch/0/cmd_pos]
+(2026-04-03T23:47:27.899438437) (2026-04-03T23:47:27.899445785) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.899492283) (2026-04-03T23:47:27.899499555) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.899545629) (2026-04-03T23:47:27.899552890) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.899599680) (2026-04-03T23:47:27.899606909) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.899653157) (2026-04-03T23:47:27.899660320) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.899706470) (2026-04-03T23:47:27.899713699) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.899759382) (2026-04-03T23:47:27.899766632) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.899813531) (2026-04-03T23:47:27.899820706) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.899867225) (2026-04-03T23:47:27.899884178) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.899932358) (2026-04-03T23:47:27.899941627) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RAnklePitch/0/cmd_pos]
+(2026-04-03T23:47:27.899993606) (2026-04-03T23:47:27.900000867) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.900050642) (2026-04-03T23:47:27.900057925) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.900109437) (2026-04-03T23:47:27.900116643) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.900342922) (2026-04-03T23:47:27.900350205) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.900633172) (2026-04-03T23:47:27.900640879) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RAnkleRoll/0/cmd_pos]
+(2026-04-03T23:47:27.900687398) (2026-04-03T23:47:27.900694670) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.900741916) (2026-04-03T23:47:27.900749253) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.900795316) (2026-04-03T23:47:27.900802501) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.900849259) (2026-04-03T23:47:27.900856531) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.900902681) (2026-04-03T23:47:27.900909877) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.900956158) (2026-04-03T23:47:27.900963343) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.901009699) (2026-04-03T23:47:27.901016928) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.901063805) (2026-04-03T23:47:27.901071044) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.901117368) (2026-04-03T23:47:27.901124542) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.901184791) (2026-04-03T23:47:27.901192107) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RAnkleRoll/0/cmd_pos]
+(2026-04-03T23:47:27.901236770) (2026-04-03T23:47:27.901243977) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.901293415) (2026-04-03T23:47:27.901300677) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.901352178) (2026-04-03T23:47:27.901359406) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.901669432) (2026-04-03T23:47:27.901676813) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.901937595) (2026-04-03T23:47:27.901945214) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RShoulderPitch/0/cmd_pos]
+(2026-04-03T23:47:27.901997453) (2026-04-03T23:47:27.902004942) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.902046501) (2026-04-03T23:47:27.902053730) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.902100368) (2026-04-03T23:47:27.902107575) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.902154105) (2026-04-03T23:47:27.902161410) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.902207896) (2026-04-03T23:47:27.902215136) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.902240816) (2026-04-03T23:47:27.902246177) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.902309889) (2026-04-03T23:47:27.902317117) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.902370670) (2026-04-03T23:47:27.902378115) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.902424743) (2026-04-03T23:47:27.902431939) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.902478263) (2026-04-03T23:47:27.902485426) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RShoulderPitch/0/cmd_pos]
+(2026-04-03T23:47:27.902532661) (2026-04-03T23:47:27.902542191) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.902573450) (2026-04-03T23:47:27.902578953) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.902637878) (2026-04-03T23:47:27.902645128) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.902770250) (2026-04-03T23:47:27.902776415) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.903057787) (2026-04-03T23:47:27.903065395) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RShoulderRoll/0/cmd_pos]
+(2026-04-03T23:47:27.903112457) (2026-04-03T23:47:27.903119826) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.903166009) (2026-04-03T23:47:27.903173303) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.903219985) (2026-04-03T23:47:27.903227148) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.903274188) (2026-04-03T23:47:27.903281449) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.903327556) (2026-04-03T23:47:27.903334698) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.903381011) (2026-04-03T23:47:27.903388315) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.903434237) (2026-04-03T23:47:27.903441412) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.903488191) (2026-04-03T23:47:27.903495387) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.903555701) (2026-04-03T23:47:27.903562962) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.903585831) (2026-04-03T23:47:27.903591008) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RShoulderRoll/0/cmd_pos]
+(2026-04-03T23:47:27.903636800) (2026-04-03T23:47:27.903646395) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.903710204) (2026-04-03T23:47:27.903717661) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.903747172) (2026-04-03T23:47:27.903752468) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.903996515) (2026-04-03T23:47:27.904003830) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.904284171) (2026-04-03T23:47:27.904291866) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RElbowYaw/0/cmd_pos]
+(2026-04-03T23:47:27.904344083) (2026-04-03T23:47:27.904351497) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.904392893) (2026-04-03T23:47:27.904400078) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.904446836) (2026-04-03T23:47:27.904454032) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.904515323) (2026-04-03T23:47:27.904522595) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.904581986) (2026-04-03T23:47:27.904589182) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.904635430) (2026-04-03T23:47:27.904642670) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.904688483) (2026-04-03T23:47:27.904695712) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.904743750) (2026-04-03T23:47:27.904752943) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.904805508) (2026-04-03T23:47:27.904812769) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.904859505) (2026-04-03T23:47:27.904866701) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RElbowYaw/0/cmd_pos]
+(2026-04-03T23:47:27.904912037) (2026-04-03T23:47:27.904919201) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.904969671) (2026-04-03T23:47:27.904976910) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.905028433) (2026-04-03T23:47:27.905035629) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.905298745) (2026-04-03T23:47:27.905306093) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.905611777) (2026-04-03T23:47:27.905619418) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RElbowRoll/0/cmd_pos]
+(2026-04-03T23:47:27.905666751) (2026-04-03T23:47:27.905679624) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.905700322) (2026-04-03T23:47:27.905705662) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.905748795) (2026-04-03T23:47:27.905756023) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.905802781) (2026-04-03T23:47:27.905809999) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.905856485) (2026-04-03T23:47:27.905863768) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.905910179) (2026-04-03T23:47:27.905917429) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.905980641) (2026-04-03T23:47:27.905987880) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.906034541) (2026-04-03T23:47:27.906041693) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.906088191) (2026-04-03T23:47:27.906095322) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.906141287) (2026-04-03T23:47:27.906148483) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RElbowRoll/0/cmd_pos]
+(2026-04-03T23:47:27.906193667) (2026-04-03T23:47:27.906200820) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.906250855) (2026-04-03T23:47:27.906258127) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.906312874) (2026-04-03T23:47:27.906331987) [Wrn] [SystemLoader.cc:75] Trying to load deprecated plugin [ignition-gazebo-joint-position-controller-system]. Using [gz-sim-joint-position-controller-system] instead.
+(2026-04-03T23:47:27.906567969) (2026-04-03T23:47:27.906575208) [Wrn] [SystemLoader.cc:136] Trying to load deprecated plugin name [ignition::gazebo::systems::JointPositionController]. Using [gz::sim::systems::JointPositionController] instead.
+(2026-04-03T23:47:27.906863483) (2026-04-03T23:47:27.906871178) [Msg] JointPositionController subscribing to Double messages on [/model/Nao/joint/RWristYaw/0/cmd_pos]
+(2026-04-03T23:47:27.906918218) (2026-04-03T23:47:27.906925588) [Dbg] [JointPositionController.cc:302] [JointPositionController] system parameters:
+(2026-04-03T23:47:27.906971988) (2026-04-03T23:47:27.906986912) [Dbg] [JointPositionController.cc:303] p_gain: [10]
+(2026-04-03T23:47:27.907038619) (2026-04-03T23:47:27.907045913) [Dbg] [JointPositionController.cc:304] i_gain: [0.1]
+(2026-04-03T23:47:27.907093278) (2026-04-03T23:47:27.907100518) [Dbg] [JointPositionController.cc:305] d_gain: [0.01]
+(2026-04-03T23:47:27.907146755) (2026-04-03T23:47:27.907153983) [Dbg] [JointPositionController.cc:306] i_max: [1]
+(2026-04-03T23:47:27.907203378) (2026-04-03T23:47:27.907212647) [Dbg] [JointPositionController.cc:307] i_min: [-1]
+(2026-04-03T23:47:27.907269727) (2026-04-03T23:47:27.907277129) [Dbg] [JointPositionController.cc:308] cmd_max: [1000]
+(2026-04-03T23:47:27.907324278) (2026-04-03T23:47:27.907331528) [Dbg] [JointPositionController.cc:309] cmd_min: [-1000]
+(2026-04-03T23:47:27.907378677) (2026-04-03T23:47:27.907385895) [Dbg] [JointPositionController.cc:310] cmd_offset: [0]
+(2026-04-03T23:47:27.907435811) (2026-04-03T23:47:27.907446643) [Dbg] [JointPositionController.cc:311] Topic: [/model/Nao/joint/RWristYaw/0/cmd_pos]
+(2026-04-03T23:47:27.907511266) (2026-04-03T23:47:27.907518723) [Dbg] [JointPositionController.cc:312] initial_position: [0]
+(2026-04-03T23:47:27.907547018) (2026-04-03T23:47:27.907552402) [Dbg] [SystemManager.cc:80] Loaded system [ignition::gazebo::systems::JointPositionController] for entity [4]
+(2026-04-03T23:47:27.909778533) (2026-04-03T23:47:27.909787618) [Msg] Loaded level [default]
+(2026-04-03T23:47:27.912409390) (2026-04-03T23:47:27.912422078) [Msg] Serving world controls on [/world/nao_world/control], [/world/nao_world/control/state] and [/world/nao_world/playback/control]
+(2026-04-03T23:47:27.912651808) (2026-04-03T23:47:27.912659720) [Msg] Serving GUI information on [/world/nao_world/gui/info]
+(2026-04-03T23:47:27.912710255) (2026-04-03T23:47:27.912717733) [Msg] World [nao_world] initialized with [1ms] physics profile.
+(2026-04-03T23:47:27.912897634) (2026-04-03T23:47:27.912905535) [Msg] Serving world SDF generation service on [/world/nao_world/generate_world_sdf]
+(2026-04-03T23:47:27.913042705) (2026-04-03T23:47:27.913050346) [Msg] Serving world names on [/gazebo/worlds]
+(2026-04-03T23:47:27.913154965) (2026-04-03T23:47:27.913162552) [Msg] Resource path add service on [/gazebo/resource_paths/add].
+(2026-04-03T23:47:27.913279392) (2026-04-03T23:47:27.913286925) [Msg] Resource path get service on [/gazebo/resource_paths/get].
+(2026-04-03T23:47:27.913389655) (2026-04-03T23:47:27.913397209) [Msg] Resource path resolve service on [/gazebo/resource_paths/resolve].
+(2026-04-03T23:47:27.913543615) (2026-04-03T23:47:27.913551137) [Msg] Resource paths published on [/gazebo/resource_paths].
+(2026-04-03T23:47:27.913684410) (2026-04-03T23:47:27.913692051) [Msg] Server control service on [/server_control].
+(2026-04-03T23:47:27.913865081) (2026-04-03T23:47:27.913872928) [Msg] Found no publishers on /stats, adding root stats topic
+(2026-04-03T23:47:27.914004736) (2026-04-03T23:47:27.914012409) [Msg] Found no publishers on /clock, adding root clock topic
+(2026-04-03T23:47:27.914257975) (2026-04-03T23:47:27.914265529) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 2
+(2026-04-03T23:47:27.914316520) (2026-04-03T23:47:27.914329175) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-04-03T23:47:27.914657143) (2026-04-03T23:47:27.914667269) [Dbg] [JointPositionController.cc:376] Identified joint [HeadYaw] as Entity [68]
+(2026-04-03T23:47:27.914745915) (2026-04-03T23:47:27.914753274) [Dbg] [JointPositionController.cc:376] Identified joint [HeadPitch] as Entity [69]
+(2026-04-03T23:47:27.914810527) (2026-04-03T23:47:27.914817973) [Dbg] [JointPositionController.cc:376] Identified joint [LHipYawPitch] as Entity [70]
+(2026-04-03T23:47:27.914875281) (2026-04-03T23:47:27.914882661) [Dbg] [JointPositionController.cc:376] Identified joint [LHipRoll] as Entity [71]
+(2026-04-03T23:47:27.914915971) (2026-04-03T23:47:27.914921366) [Dbg] [JointPositionController.cc:376] Identified joint [LHipPitch] as Entity [72]
+(2026-04-03T23:47:27.914975385) (2026-04-03T23:47:27.914982678) [Dbg] [JointPositionController.cc:376] Identified joint [LKneePitch] as Entity [73]
+(2026-04-03T23:47:27.915052989) (2026-04-03T23:47:27.915060239) [Dbg] [JointPositionController.cc:376] Identified joint [LAnklePitch] as Entity [74]
+(2026-04-03T23:47:27.915118165) (2026-04-03T23:47:27.915127467) [Dbg] [JointPositionController.cc:376] Identified joint [LAnkleRoll] as Entity [75]
+(2026-04-03T23:47:27.915199536) (2026-04-03T23:47:27.915209120) [Dbg] [JointPositionController.cc:376] Identified joint [LShoulderPitch] as Entity [76]
+(2026-04-03T23:47:27.915269434) (2026-04-03T23:47:27.915276858) [Dbg] [JointPositionController.cc:376] Identified joint [LShoulderRoll] as Entity [77]
+(2026-04-03T23:47:27.915337617) (2026-04-03T23:47:27.915347005) [Dbg] [JointPositionController.cc:376] Identified joint [LElbowYaw] as Entity [78]
+(2026-04-03T23:47:27.915412323) (2026-04-03T23:47:27.915419628) [Dbg] [JointPositionController.cc:376] Identified joint [LElbowRoll] as Entity [79]
+(2026-04-03T23:47:27.915477022) (2026-04-03T23:47:27.915484576) [Dbg] [JointPositionController.cc:376] Identified joint [LWristYaw] as Entity [80]
+(2026-04-03T23:47:27.915551837) (2026-04-03T23:47:27.915559174) [Dbg] [JointPositionController.cc:376] Identified joint [RHipYawPitch] as Entity [81]
+(2026-04-03T23:47:27.915643627) (2026-04-03T23:47:27.915653232) [Dbg] [JointPositionController.cc:376] Identified joint [RHipRoll] as Entity [82]
+(2026-04-03T23:47:27.915721253) (2026-04-03T23:47:27.915730739) [Dbg] [JointPositionController.cc:376] Identified joint [RHipPitch] as Entity [83]
+(2026-04-03T23:47:27.915819457) (2026-04-03T23:47:27.915828954) [Dbg] [JointPositionController.cc:376] Identified joint [RKneePitch] as Entity [84]
+(2026-04-03T23:47:27.915904106) (2026-04-03T23:47:27.915913103) [Dbg] [JointPositionController.cc:376] Identified joint [RAnklePitch] as Entity [85]
+(2026-04-03T23:47:27.915994843) (2026-04-03T23:47:27.916003493) [Dbg] [JointPositionController.cc:376] Identified joint [RAnkleRoll] as Entity [86]
+(2026-04-03T23:47:27.916061257) (2026-04-03T23:47:27.916072414) [Dbg] [JointPositionController.cc:376] Identified joint [RShoulderPitch] as Entity [87]
+(2026-04-03T23:47:27.916134324) (2026-04-03T23:47:27.916141737) [Dbg] [JointPositionController.cc:376] Identified joint [RShoulderRoll] as Entity [88]
+(2026-04-03T23:47:27.916207587) (2026-04-03T23:47:27.916216997) [Dbg] [JointPositionController.cc:376] Identified joint [RElbowYaw] as Entity [89]
+(2026-04-03T23:47:27.916287655) (2026-04-03T23:47:27.916296989) [Dbg] [JointPositionController.cc:376] Identified joint [RElbowRoll] as Entity [90]
+(2026-04-03T23:47:27.916360885) (2026-04-03T23:47:27.916368341) [Dbg] [JointPositionController.cc:376] Identified joint [RWristYaw] as Entity [91]
+(2026-04-03T23:47:28.16800153) (2026-04-03T23:47:28.16815467) [Msg] Serving scene information on [/world/nao_world/scene/info]
+(2026-04-03T23:47:28.16991905) (2026-04-03T23:47:28.16999677) [Msg] Serving graph information on [/world/nao_world/scene/graph]
+(2026-04-03T23:47:28.17275079) (2026-04-03T23:47:28.17282829) [Msg] Serving full state on [/world/nao_world/state]
+(2026-04-03T23:47:28.17421084) (2026-04-03T23:47:28.17430765) [Msg] Serving full state (async) on [/world/nao_world/state_async]
+(2026-04-03T23:47:28.17599996) (2026-04-03T23:47:28.17608191) [Msg] Publishing scene information on [/world/nao_world/scene/info]
+(2026-04-03T23:47:28.17739228) (2026-04-03T23:47:28.17746826) [Msg] Publishing entity deletions on [/world/nao_world/scene/deletion]
+(2026-04-03T23:47:28.17966505) (2026-04-03T23:47:28.17975275) [Msg] Publishing state changes on [/world/nao_world/state]
+(2026-04-03T23:47:28.18179849) (2026-04-03T23:47:28.18187794) [Msg] Publishing pose messages on [/world/nao_world/pose/info]
+(2026-04-03T23:47:28.18322098) (2026-04-03T23:47:28.18333418) [Msg] Publishing dynamic pose messages on [/world/nao_world/dynamic_pose/info]
+(2026-04-03T23:47:28.225651467) (2026-04-03T23:47:28.225670396) [Dbg] [EntityComponentManager.cc:1656] Updated state thread iterators: 16 threads processing around 6 entities each.
+(2026-04-03T23:48:53.755902900) (2026-04-03T23:48:53.755930132) [Dbg] [SignalHandler.cc:142] Received signal[2].
+(2026-04-03T23:48:53.756000377) (2026-04-03T23:48:53.756012675) [Dbg] [ServerPrivate.cc:122] Server received signal[2]
+(2026-04-03T23:48:53.756318478) (2026-04-03T23:48:53.756336137) [Dbg] [gz.cc:434] Shutting down gz-sim-server
+(2026-04-03T23:48:53.761986880) (2026-04-03T23:48:53.762012712) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (0)

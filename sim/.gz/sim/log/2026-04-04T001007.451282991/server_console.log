@@ -1,0 +1,4 @@
+(2026-04-04T00:10:07.561575917) (2026-04-04T00:10:07.561583933) [Msg] Gazebo Sim Server v8.10.0
+(2026-04-04T00:10:07.562599321) (2026-04-04T00:10:07.562605795) [Msg] Loading SDF world file[/home/shibu/ros2_ws/src/lab_world/worlds/lab_world.sdf].
+(2026-04-04T00:10:07.687789297) (2026-04-04T00:10:07.687804182) [Err] [Server.cc:86] Error Code 14: [/sdf/world[@name="lab_world"]/include[1]/uri:/home/shibu/ros2_ws/src/lab_world/worlds/lab_world.sdf:L14]: Msg: Unable to find uri[model://diff_drive]
+(2026-04-04T00:10:07.689468014) (2026-04-04T00:10:07.689478094) [Dbg] [gz.cc:434] Shutting down gz-sim-server

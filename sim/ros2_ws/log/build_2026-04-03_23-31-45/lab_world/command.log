@@ -1,0 +1,6 @@
+Invoking command in '/home/shibu/ros2_ws/build/lab_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/shibu/ros2_ws/src/lab_world -DCMAKE_INSTALL_PREFIX=/home/shibu/ros2_ws/install/lab_world
+Invoked command in '/home/shibu/ros2_ws/build/lab_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/shibu/ros2_ws/src/lab_world -DCMAKE_INSTALL_PREFIX=/home/shibu/ros2_ws/install/lab_world
+Invoking command in '/home/shibu/ros2_ws/build/lab_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/shibu/ros2_ws/build/lab_world -- -j16 -l16
+Invoked command in '/home/shibu/ros2_ws/build/lab_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/shibu/ros2_ws/build/lab_world -- -j16 -l16
+Invoking command in '/home/shibu/ros2_ws/build/lab_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/shibu/ros2_ws/build/lab_world
+Invoked command in '/home/shibu/ros2_ws/build/lab_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/shibu/ros2_ws/build/lab_world

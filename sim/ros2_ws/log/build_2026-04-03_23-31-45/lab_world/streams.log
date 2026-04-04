@@ -1,0 +1,42 @@
+[0.022s] Invoking command in '/home/shibu/ros2_ws/build/lab_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/shibu/ros2_ws/src/lab_world -DCMAKE_INSTALL_PREFIX=/home/shibu/ros2_ws/install/lab_world
+[0.399s] -- The C compiler identification is GNU 13.3.0
+[1.135s] -- The CXX compiler identification is GNU 13.3.0
+[1.743s] -- Detecting C compiler ABI info
+[2.050s] -- Detecting C compiler ABI info - done
+[2.057s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.058s] -- Detecting C compile features
+[2.059s] -- Detecting C compile features - done
+[2.156s] -- Detecting CXX compiler ABI info
+[2.455s] -- Detecting CXX compiler ABI info - done
+[2.463s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.463s] -- Detecting CXX compile features
+[2.463s] -- Detecting CXX compile features - done
+[2.485s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.635s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.772s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.884s] -- Added test 'lint_cmake' to check CMake code style
+[2.888s] -- Added test 'xmllint' to check XML markup files
+[2.891s] -- Configuring done (2.8s)
+[2.900s] -- Generating done (0.0s)
+[2.903s] -- Build files have been written to: /home/shibu/ros2_ws/build/lab_world
+[2.912s] Invoked command in '/home/shibu/ros2_ws/build/lab_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/shibu/ros2_ws/src/lab_world -DCMAKE_INSTALL_PREFIX=/home/shibu/ros2_ws/install/lab_world
+[2.913s] Invoking command in '/home/shibu/ros2_ws/build/lab_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/shibu/ros2_ws/build/lab_world -- -j16 -l16
+[2.963s] Invoked command in '/home/shibu/ros2_ws/build/lab_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/shibu/ros2_ws/build/lab_world -- -j16 -l16
+[2.975s] Invoking command in '/home/shibu/ros2_ws/build/lab_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/shibu/ros2_ws/build/lab_world
+[2.986s] -- Install configuration: ""
+[2.987s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/ament_index/resource_index/package_run_dependencies/lab_world
+[2.988s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/ament_index/resource_index/parent_prefix_path/lab_world
+[2.989s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/ament_prefix_path.sh
+[2.989s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/ament_prefix_path.dsv
+[2.989s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/path.sh
+[2.989s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/path.dsv
+[2.990s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.bash
+[2.990s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.sh
+[2.990s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.zsh
+[2.991s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.dsv
+[2.991s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/package.dsv
+[2.991s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/ament_index/resource_index/packages/lab_world
+[2.992s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/cmake/lab_worldConfig.cmake
+[2.992s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/cmake/lab_worldConfig-version.cmake
+[2.992s] -- Installing: /home/shibu/ros2_ws/install/lab_world/share/lab_world/package.xml
+[2.996s] Invoked command in '/home/shibu/ros2_ws/build/lab_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/shibu/ros2_ws/build/lab_world
