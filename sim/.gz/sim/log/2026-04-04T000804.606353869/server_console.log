@@ -1,0 +1,4 @@
+(2026-04-04T00:08:04.725690784) (2026-04-04T00:08:04.725698969) [Msg] Gazebo Sim Server v8.10.0
+(2026-04-04T00:08:04.727015253) (2026-04-04T00:08:04.727022638) [Msg] Loading SDF world file[/home/shibu/ros2_ws/src/lab_world/worlds/lab_world.sdf].
+(2026-04-04T00:08:04.872868385) (2026-04-04T00:08:04.872883176) [Err] [Server.cc:86] Error Code 14: [/sdf/world[@name="lab_world"]/include[1]/uri:/home/shibu/ros2_ws/src/lab_world/worlds/lab_world.sdf:L14]: Msg: Unable to find uri[model://irobot_create3]
+(2026-04-04T00:08:04.876079327) (2026-04-04T00:08:04.876091156) [Dbg] [gz.cc:434] Shutting down gz-sim-server

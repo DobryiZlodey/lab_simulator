@@ -1,0 +1,15 @@
+/home/shibu/ros2_ws/install/lab_world/share/ament_index/resource_index/package_run_dependencies/lab_world
+/home/shibu/ros2_ws/install/lab_world/share/ament_index/resource_index/parent_prefix_path/lab_world
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/ament_prefix_path.sh
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/ament_prefix_path.dsv
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/path.sh
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/environment/path.dsv
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.bash
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.sh
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.zsh
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/local_setup.dsv
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/package.dsv
+/home/shibu/ros2_ws/install/lab_world/share/ament_index/resource_index/packages/lab_world
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/cmake/lab_worldConfig.cmake
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/cmake/lab_worldConfig-version.cmake
+/home/shibu/ros2_ws/install/lab_world/share/lab_world/package.xml

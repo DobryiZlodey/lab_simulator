@@ -1,0 +1,4 @@
+(2026-04-03T23:48:58.460205928) (2026-04-03T23:48:58.460213894) [Msg] Gazebo Sim Server v8.10.0
+(2026-04-03T23:48:58.461261073) (2026-04-03T23:48:58.461267813) [Msg] Loading SDF world file[/home/shibu/ros2_ws/src/lab_world/worlds/lab_world.sdf].
+(2026-04-03T23:48:58.572055487) (2026-04-03T23:48:58.572070997) [Err] [Server.cc:86] Error Code 37: Msg: Can not find the XML attribute 'version' in sdf XML tag for model: lab. Please specify the SDF protocol supported in the model configuration file. The first sdf tag in the config file will be used 
+(2026-04-03T23:48:58.574208661) (2026-04-03T23:48:58.574219764) [Dbg] [gz.cc:434] Shutting down gz-sim-server
